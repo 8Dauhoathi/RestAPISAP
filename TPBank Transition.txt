@@ -1,0 +1,3 @@
+transactionId   accountNumber  amount   balanceAvailable   transType   notiCreatedTime  transTime   tranDesc
+5382471401  66522341  100000000  2000000000  C  04/06/2019 10:27:27  04/06/2019  Nap tien
+5382471402  66522341  100000000  2000000000  C  04/06/2019 10:27:27  04/06/2019  Nap tien
